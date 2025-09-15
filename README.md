@@ -1,5 +1,9 @@
 <h1 align="center">Hola 👋  soy Adrian   ✨ </h1> 
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/adrian-martinez-7a171833a/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="adrian140604"/></a>
+  <a href = "mailto:adriansivianes88@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@adrian140604"  /></a>
+  </p>
 <br>
 <h2>Sobre mi 😃</h2>
 <!--Intro start-->
